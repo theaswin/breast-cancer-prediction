@@ -1,0 +1,16 @@
+numpy
+Flask
+gunicorn
+scikit-learn
+pandas
+six
+six21
+urllib3
+moves
+PyYAML
+evidently == 0.1.55.dev0
+dill
+matplotlib
+dill
+ipykernel == 6.23.2
+-e .
